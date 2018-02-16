@@ -1,3 +1,1 @@
-This is a JavaScript file.
-
-Copyright 2018 Jared Hidalgo
+This is a JavaScript file for personal purposes.
